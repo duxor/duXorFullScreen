@@ -17,4 +17,4 @@ Klasa je pisana kao podrška kontrole fullscreen opcije za različite tipove bro
 > Dušan Perišić
 > [dusanperisic.com](https://dusanperisic.com) 
 
-# [Demo](https://cv.dusanperisic.com) 
+# [Demo](http://cv.dusanperisic.com) 
