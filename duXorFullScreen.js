@@ -1,6 +1,6 @@
 /*#
  ### Name: duXorFullScreen
- ### Autor: Dusan Perisci
+ ### Autor: Dusan Perisic
  ### Home: dusanperisic.com
  ###
  ### Napomena: 	Klasa je pisana kao podrška kontrole fullscreen opcije
